@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-dsc-ashesi"
+    }
+  },
+  "defaultProject": "angular-dsc-ashesi",
+  "cli": {
+    "analytics": false
+  }
 }
